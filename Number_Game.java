@@ -5,7 +5,7 @@ class range{
     }
 }
 
-public class Number_Game{
+public class codsoft_taskno1{
     public static void main(String[] args){
         Scanner s=new Scanner(System.in);
         range rg=new range();
